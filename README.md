@@ -11,6 +11,8 @@
 
 缺点是需要提前对游戏截图做处理，要按照示例这样截图，不然可能不准
 
+如果嫌处理截图区域麻烦可以去试试[AutoDiffFinder-Pro](https://github.com/didoll-john/AutoDiffFinder-Pro)
+
 对比区域截图示例如下
 
 ![游戏对比区域截图](https://raw.githubusercontent.com/didoll-john/AutoDiffFinder-Lite/refs/heads/main/Examples/example.jpg "example")
